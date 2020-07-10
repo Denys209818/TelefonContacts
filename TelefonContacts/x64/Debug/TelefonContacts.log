@@ -1,0 +1,10 @@
+﻿  Baza.cpp
+  funct.cpp
+  Main.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\TelefonContacts\TelefonContacts\Main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Denis\Desktop\Новая папка\TelefonContacts\TelefonContacts\Baza.cpp(66): warning C4715: Baza::FindMin: значение возвращается не при всех путях выполнения
+C:\Users\Denis\Desktop\Новая папка\TelefonContacts\TelefonContacts\Baza.cpp(78): warning C4715: Baza::RemoveAbonentNummer: значение возвращается не при всех путях выполнения
+C:\Users\Denis\Desktop\Новая папка\TelefonContacts\TelefonContacts\Baza.cpp(90): warning C4715: Baza::RemoveAbonentSurname: значение возвращается не при всех путях выполнения
+C:\Users\Denis\Desktop\Новая папка\TelefonContacts\TelefonContacts\Baza.cpp(164): warning C4715: Baza::SuchNummer: значение возвращается не при всех путях выполнения
+  TelefonContacts.vcxproj -> C:\Users\Denis\Desktop\Новая папка\TelefonContacts\x64\Debug\TelefonContacts.exe
